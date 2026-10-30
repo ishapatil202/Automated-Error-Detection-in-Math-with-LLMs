@@ -77,4 +77,3 @@ A GPU is strongly recommended for training.
 
 ---
 
-**Author:** Isha Patil · [LinkedIn](https://linkedin.com/in/isha-patil224) · isha00364@gmail.com
